@@ -67,9 +67,11 @@ body,html{
   color:black;
   font-size: 20px;
   width: 100px;
+  cursor: pointer;
   height: 50px;
   text-align: center;
   font-size: 1rem;
+  
 }
 
 .alt--body{
@@ -83,7 +85,7 @@ body,html{
 
 
 .nav-bar{
-  background-image: url("https://drive.google.com/uc?export=view&id=1bVoIFOtZAghxlpdKOsHhhGjYUY68XT8A");
+  background-image: url("https://drive.google.com/uc?export=view&id=1JE2wETMZ6VUZw8ecKoDpAg4yvbthu3p3");
   height:300px;
   background-position: center;
   background-repeat: no-repeat;
