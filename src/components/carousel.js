@@ -6,7 +6,7 @@ import imagesData from "../imagesData";
 export default function Carousel() {
 
     const [image, setImage] = React.useState(`${Image}`)
-    const [desc, setDesc] = React.useState("Click the button blow :))")
+    const [desc, setDesc] = React.useState("Click the button below :))")
 
     function imgChange() {
         const imgArray = imagesData.images
