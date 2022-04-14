@@ -24,7 +24,7 @@ export default function Carousel() {
                 <p className="carousel--desc">{desc}</p>
                 <button onClick={imgChange} className="carousel-btn"> SHUFFLE </button>
             </div>
-            <h3> Have a great year ahead, </h3>
+            <h3> Have a great year ahead, my Favorite Fish </h3>
         </div>
     )
 }
